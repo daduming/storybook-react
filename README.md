@@ -12,7 +12,7 @@ npx storybook init
 ```
 
 ### Lancement de Storybook
-s
+
 ```sh
 cd taskbox && npm run storybook 
 
