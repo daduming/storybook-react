@@ -1,17 +1,18 @@
-# 🎬 MoviesAndMe, OpenClassrooms application in React-Native
+# 📖 Storybook pour React
 
-### Installation and Run :
+### Install de Storybook dans un enviro React
+
 ```sh
-npm i
-npx react-native run-ios
+# Create our application:
+npx create-react-app taskbox
+
+cd taskbox
+
+# Add Storybook:
+npx storybook init
 ```
 
-### Don't forget to set your API TMDB Token in /API/TMDBApi.js file
-[THE MOVIE DB API](https://api.themoviedb.org)
-
-### Tuto
-[Développez une application mobile React Native](https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native)
 
 ### Source
-[Github du projet](https://github.com/Aximem/MoviesAndMe)
+[Storybook documentation](https://storybook.js.org/tutorials/intro-to-storybook/react/fr/get-started/)
 
