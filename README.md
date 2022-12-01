@@ -1,22 +1,22 @@
 # 📖 Storybook pour React
 
-### Install de Storybook dans un enviro React
+### Install de Storybook
 
 ```sh
-# Create our application:
-npx create-react-app taskbox
-
+# Open folder taskbox
 cd taskbox
 
-# Add Storybook:
+# Init Storybook
 npx storybook init
-
-# To run your Storybook, type:
-npm run storybook 
 
 ```
 
+### Lancement de Storybook
+s
+```sh
+cd taskbox && npm run storybook 
+
+```
 
 ### Source
 [Storybook documentation](https://storybook.js.org/tutorials/intro-to-storybook/react/fr/get-started/)
-
