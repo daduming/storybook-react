@@ -10,6 +10,10 @@ cd taskbox
 
 # Add Storybook:
 npx storybook init
+
+# To run your Storybook, type:
+npm run storybook 
+
 ```
 
 
